@@ -1,0 +1,6 @@
+ID_articulo,Código de Barras,Descripción,Costo de Reposición,ID_utilidad,ID_IVA,Precio de Venta,Multiplo de Venta
+1,OTROCOD,Papas Sabritas,10,18,1,20.0,3.0
+2,ASFNI51851,Goma de Mascar,5,2,2,6,1
+3,A48GH08911,Papas Barcel,9,3,2,11.25,1
+4,A48GH08911,Donitas Bimbo,9,3,2,11.25,1
+5,GRFQERFRQFG,Prueba,0,1,3,0,5.0

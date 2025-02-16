@@ -1,0 +1,5 @@
+ID_movimiento,ID_articulo,Descripcion,Cantidad,Importe sin Iva,IVA
+1,2,Goma de Mascar,-11.0,6.0,0.96
+3,4,,-10.0,11.25,1.8
+3,4,,10.0,11.25,1.8
+1,2,Goma de Mascar,11.0,6.0,0.96

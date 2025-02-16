@@ -1,0 +1,5 @@
+ID_movimiento,ID_tipo_de_movimiento,ID_almacén,Cantidad,Importe Total,Fecha,Hora,ID_socio,ID_empleado,ID_tipo_de_pago,ID_método_de_pago
+1,1,1,-11.0,76.56,2023-10-18,01:00:52.924289,3,2,4,2
+3,1,1,-10.0,130.5,2023-10-18,03:12:22.067952,3,2,4,2
+3,2,1,10.0,130.5,2023-10-18,03:20:02.556988,3,2,4,2
+1,2,1,11.0,76.56,2023-10-18,03:36:27.058443,3,2,4,2

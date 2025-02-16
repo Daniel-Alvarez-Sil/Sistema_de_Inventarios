@@ -1,0 +1,2 @@
+ID_socio,ID_tipo_de_socio,ID_persona,Razón Social,CP,Calle,Número Exterior,Número Interior,Colonia,Estado,RFC,ID_régimen_fiscal,id_uso_de_cfdi,Nombre de Contacto,Teléfono de Contacto,Correo de Contacto
+2,1,2,prueba,52978,Cerezos,3,Casa 9,Jardínes de Atizapán,Estado de México,RFCPRUEBA,13,22,Daniel,5587395839,correo
