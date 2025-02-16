@@ -1,0 +1,15 @@
+ID_movimiento,ID_tipo_de_movimiento,ID_almacen,ID_articulo,Descripcion,Cantidad,Importe sin Iva,IVA
+8,3,1,7,Donitas BIMBO,10.0,0.0,0.0
+8,4,1,7,Donitas BIMBO,10.0,0.0,0.0
+1,1,1,7,Donitas BIMBO,-9.0,11.5,1.84
+1,2,1,7,Donitas BIMBO,9.0,11.5,1.84
+2,1,1,7,Donitas BIMBO,-5.0,11.5,1.84
+2,2,1,7,Donitas BIMBO,5.0,11.5,1.84
+9,3,1,8,iPhone,3.0,0.0,0.0
+9,4,1,8,iPhone,3.0,0.0,0.0
+3,1,1,7,Donitas BIMBO,-2.0,11.5,1.84
+3,1,1,8,iPhone,-1.0,40000.0,6400.0
+10,3,1,10,Donitas Bimbo Chocolate,30.0,0.0,0.0
+10,4,1,10,Donitas Bimbo Chocolate,30.0,0.0,0.0
+4,1,1,10,Donitas Bimbo Chocolate,-2.0,12.0,1.92
+4,1,1,8,iPhone,-1.0,40000.0,6400.0

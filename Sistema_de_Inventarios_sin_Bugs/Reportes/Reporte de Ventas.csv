@@ -1,0 +1,2 @@
+Folio,Almacen,Tipo de Movimiento,Fecha,Hora,Articulo,Codigo de Barras,Cantidad,Importe sin IVA,IVA,Tipo de Pago,Método de Pago
+1,Atizapán,Venta,2023-10-18,22:44:50,PRUEBA,PRUEBA,-1.0,11.5,1.84,Efectivo,Contado

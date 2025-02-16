@@ -1,0 +1,7 @@
+ID del articulo,Código de Barras,Nombre del Artículo,Fecha,Folio,Almacén,Importe sin Iva,IVA,Cantidad
+1,Atizapán,Venta,2023-10-18,04:59:55,Papas Sabritas,OTROCOD,-12.0,,1.6,Tarjeta de Débito,Contado
+2,Atizapán,Venta,2023-10-18,05:05:20,Donitas Bimbo,A48GH08911,-1.0,,1.8,Tarjeta de Débito,Contado
+3,Atizapán,Venta,2023-10-18,05:12:40,Donitas Bimbo,A48GH08911,-3.0,11.25,1.8,Efectivo,Crédito
+4,Atizapán,Venta,2023-10-18,05:13:46,Donitas Bimbo,A48GH08911,-3.0,11.25,1.8,Efectivo,Crédito
+6,Atizapán,Venta,2023-10-18,05:19:28,Donitas Bimbo,A48GH08911,-1.0,11.25,1.8,Efectivo,Crédito
+6,Atizapán,Venta,2023-10-18,05:19:28,Papas Barcel,A48GH08911,-2.0,11.25,1.8,Efectivo,Crédito
