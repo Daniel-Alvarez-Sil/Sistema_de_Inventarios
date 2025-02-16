@@ -1,0 +1,5 @@
+ID_articulo,Código de Barras,Descripción,Costo de Reposición,ID_utilidad,ID_IVA,Precio de Venta sin IVA,Multiplo de Venta
+4,PRUEBA,PRUEBA,10.0,1,2,11.5,1.0
+5,H1897E0RJ8243P,Donitas BIMBO,0,1,2,0,1.0
+6,1928U20984QDQEF,Papas Barcel,0,1,2,0,1.0
+7,JMQWODIJ2837248,Papas Sabritas,0,5,2,0,1.0

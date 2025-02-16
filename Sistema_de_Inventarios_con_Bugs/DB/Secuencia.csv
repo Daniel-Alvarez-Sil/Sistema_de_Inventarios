@@ -1,0 +1,14 @@
+ID_secuencia,Tabla a la que pertenece,Valor
+1,Almacén.csv,2
+2,Articulo.csv,7
+3,Departamento.csv,3
+4,Empleado.csv,4
+5,IVA.csv,4
+6,Método de Pago.csv,2
+7,Régimen Fiscal.csv,19
+8,Socio de Negocios.csv,3
+9,Tipo de Movimiento.csv,4
+10,Tipo de Pago.csv,4
+11,Tipo de Socio.csv,2
+12,Uso de CFDI.csv,22
+13,Utilidad.csv,20

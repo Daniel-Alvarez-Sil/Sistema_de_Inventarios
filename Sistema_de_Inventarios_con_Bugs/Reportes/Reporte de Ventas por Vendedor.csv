@@ -1,0 +1,7 @@
+Nombre del Empleado,Apellido del Empleado,Fecha,Folio,Almacén,Código de Barras,Descripción,Importe sin IVA,IVA,Cantidad
+María,González,2023-10-18,1,Atizapán,OTROCOD,Papas Sabritas,,1.6
+Juan,Pérez,2023-10-18,2,Atizapán,A48GH08911,Donitas Bimbo,,1.8
+Juan,Pérez,2023-10-18,3,Atizapán,A48GH08911,Donitas Bimbo,11.25,1.8
+Juan,Pérez,2023-10-18,4,Atizapán,A48GH08911,Donitas Bimbo,11.25,1.8
+Juan,Pérez,2023-10-18,6,Atizapán,A48GH08911,Donitas Bimbo,11.25,1.8
+Juan,Pérez,2023-10-18,6,Atizapán,A48GH08911,Papas Barcel,11.25,1.8

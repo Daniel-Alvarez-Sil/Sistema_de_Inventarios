@@ -1,0 +1,4 @@
+ID_movimiento,ID_tipo_de_movimiento,ID_almacen,ID_articulo,Descripcion,Cantidad,Importe sin Iva,IVA
+1,1,1,4,PRUEBA,-1.0,11.5,1.84
+2,1,1,7,Papas Sabritas,-50.0,0.0,0.0
+2,1,1,4,PRUEBA,-5.0,11.5,1.84
